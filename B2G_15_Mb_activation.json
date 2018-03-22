@@ -1,0 +1,8 @@
+{
+  "schedulingPolicy": "asap",
+  "senders": {
+    "SMS": {
+      "beeline": "Beeline"
+    }
+  }
+}
